@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/redzuanezral" target="blank"><img src="https://img.shields.io/twitter/follow/redzuanezral?logo=twitter&style=for-the-badge" alt="redzuanezral" /></a> </p>
 
-- 🔭 I’m currently working on **Company Appraisal System**
+- 🔭 I’m currently working on **E-commerce Website**
 
 - 🌱 I’m currently learning **Laravel, React, Python and Application Development**
 
